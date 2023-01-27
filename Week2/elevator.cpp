@@ -20,7 +20,7 @@ int main()
   if (floor == 13) 
   { 
     cout << "Error: There is no thirteenth floor" << endl;
-    return 6;   //  returning with error
+    return 1;   //  returning with error
   }
   
   cout << "The elevator will travel to the floor " << floor << endl;
