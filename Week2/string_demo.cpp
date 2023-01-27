@@ -16,9 +16,9 @@ int main()
 	
 	// prompt user for input using cout/cin
 	cout << "Enter number (int): "; 
-	cin >> number;  // User input - 1320
+	cin >> number;  // example user input 1320
 	cout << "Enter name (string): ";
-	cin >> name;    // User input - "ASEN"
+	cin >> name;    // example user input ASEN
 	// display standard output on console
 	cout << name << " " << number << " Hello, World!\n";
 	return 0; 
