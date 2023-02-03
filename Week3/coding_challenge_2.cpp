@@ -5,11 +5,11 @@ using namespace std;
 
 int main()
 {
-    int count;
+    int number;
     int sum = 0;
 
     cout << "Enter a starting number: ";
-    cin >> count;
+    cin >> number;
 
 
     // Fill Loop Loginc
