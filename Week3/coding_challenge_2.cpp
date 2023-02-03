@@ -13,7 +13,7 @@ int main()
 
 
     // Fill Loop Loginc
-    // Find the sum from 'count' to 1000
+    // Find the sum from 'number' to 1000
 
 
 
