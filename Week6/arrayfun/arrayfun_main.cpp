@@ -1,7 +1,7 @@
 #include"arrayfun.h"
 #include <iostream>
 
-// gcc arrayfun_myFunction.cpp arrayfun_main.cpp -o Run -lstdc++  (to compile)
+// g++ arrayfun_myFunction.cpp arrayfun_main.cpp -o Run -lstdc++  (to compile)
 // .Run (to run)
 
 using namespace std;
